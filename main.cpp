@@ -2,7 +2,7 @@
   ---------------------------------------------------------------------------
   Fichier     : main.cpp
   Nom du labo : Calendrier
-  Auteur.e.s  : Sarah Jallon, Davide
+  Auteur.e.s  : Sarah Jallon, Davide Caracol Mendes
   Date        : 27/10/2020
   But         : le but du programme et non le but du laboratoire !!
 
