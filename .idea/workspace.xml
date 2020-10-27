@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Labo03_J" targetName="Labo03_J" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -27,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d90df8b-03a2-420a-8fac-07a779decde3" name="Default Changelist" comment="">
+    <list default="true" id="196fcc10-7ad0-4bfc-a39c-f48cfe64cd03" name="Default Changelist" comment="entete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -39,10 +23,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jSBACRwTwHjeSicpS53zx75Etn" />
+  <component name="ProjectId" id="1jSAKiJQzQYXWPUWOCPDwF2mRbY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,10 +37,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager">
     <configuration name="Labo03_J" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labo03_J" TARGET_NAME="Labo03_J" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labo03_J" RUN_TARGET_NAME="Labo03_J">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -68,33 +60,70 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d90df8b-03a2-420a-8fac-07a779decde3" name="Default Changelist" comment="" />
-      <created>1603787467156</created>
+      <changelist id="196fcc10-7ad0-4bfc-a39c-f48cfe64cd03" name="Default Changelist" comment="" />
+      <created>1603787056496</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603787467156</updated>
-      <workItem from="1603787468761" duration="306000" />
+      <updated>1603787056496</updated>
+      <workItem from="1603787057832" duration="2985000" />
     </task>
+    <task id="LOCAL-00001" summary="entete">
+      <created>1603787380862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603787380862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entete" />
+    <option name="LAST_COMMIT_MESSAGE" value="entete" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603787778994">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="648" y="311" key="Github.ShareDialog" timestamp="1603787140117">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603787778994" />
+    <state x="648" y="311" key="Github.ShareDialog/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603787140117" />
+    <state x="532" y="111" key="Github.UntrackedFilesDialog" timestamp="1603787154759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="111" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603787154759" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1603789982890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603789982890" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1603789982889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603789982889" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1603789982889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603789982889" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1603789982890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603789982890" />
+    <state x="148" y="66" key="MergeDialog" timestamp="1603788013717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="148" y="66" key="MergeDialog/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603788013717" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1603787386381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603787386381" />
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603787966576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603787966576" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1603789544137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824/-1920.478.1920.1040@0.0.1536.824" timestamp="1603789544137" />
   </component>
 </project>
