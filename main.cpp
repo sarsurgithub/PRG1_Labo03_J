@@ -72,31 +72,30 @@ do{
  // ----------------------------------------------------------------------------------------------
  //Affichage les mois dans l'ordre
 
- cout << anneeChoisie << " " << bissextile;
 	unsigned jours;
  for (int i=1; i < 13; i++) {
 
 	 switch (Mois(i - 1)) {
-		 case Mois::JANVIER  : cout << "JANVIER" ;
+		 case Mois::JANVIER  : cout << "JANVIER " ;
 		 							  jours = 31; break;
 		 case Mois::FEVRIER  : if(bissextile) {
 		 						      jours = 28;
 		 				           } else {
 		 	                     jours = 29;
 		                       };
-		                       cout << "FEVRIER " << anneeChoisie;
+		                       cout << "FEVRIER ";
 		                       break;
-		 case Mois::MARS     : cout << "MARS"    ;
+		 case Mois::MARS     : cout << "MARS "    ;
 		 							  jours = 31; break;
-		 case Mois::AVRIL    : cout << "AVRIL"   ;
+		 case Mois::AVRIL    : cout << "AVRIL "   ;
 		                       jours << 30; break;
-		 case Mois::MAI      : cout << "MAI"     ;
+		 case Mois::MAI      : cout << "MAI "     ;
 		 							  jours = 31; break;
-		 case Mois::JUIN     : cout << "JUIN"     ;
+		 case Mois::JUIN     : cout << "JUIN "     ;
 		                       jours = 30; break;
-		 case Mois::JUILLET  : cout << "JUILLET" ;
+		 case Mois::JUILLET  : cout << "JUILLET " ;
 		 							  jours = 31; break;
-		 case Mois::AOUT     : cout << "AOUT"    ;
+		 case Mois::AOUT     : cout << "AOUT "    ;
 		 							  jours = 31; break;
 		 case Mois::SEPTEMBRE: cout << "SEPTEMBRE ";
 		                       jours = 30; break;
