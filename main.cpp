@@ -106,6 +106,7 @@ do{
 		 case Mois::DECEMBRE : cout << "DECEMBRE ";
 		 						     jours = 31; break;
 	 }
+	 //TODO chercher formule pour afficher nombre de jours sur une seule ligne
 	 cout << anneeChoisie << endl;
 	const int N_DEPART = 1;
 	const int NB_COLONNES = 7;
